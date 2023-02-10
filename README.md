@@ -35,7 +35,7 @@
 
 ## ❤️ Let's get connected:
 
-<br><center>📫 Reach me at wiacek.mariusz@gmail.com</br>
+<br><center>📫 Reach me at wiacek.mariusz@gmail.com</center></br>
 <br><a href="https://linkedin.com/in/" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mariusz wiacek" height="100" width="100" /></a>
 
 <a href="https://gmail.com" target="blank"><img align="left" src="https://raw.githubusercontent.com/amitmerchant1990/correo/master/res/correo.png" alt="mariusz wiacek" height="100" width="100" /></a>
