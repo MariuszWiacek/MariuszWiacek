@@ -34,7 +34,9 @@
 </p>
 
 ## ❤️ Let's get connected:
-<a href="https://linkedin.com/in/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mariusz wiacek" height="30" width="40" /></a><br>
 
-<a href="https://gmail.com" target="blank"><img align="center" src="https://robertslegal.com.au/wp-content/uploads/2022/09/Shutterstock_1842662524-1-scaled.jpg" alt="mariusz wiacek" height="100" width="100" /></a>
+<li>📫 Reach me at wiacek.mariusz@gmail.com</li>
+<a href="https://linkedin.com/in/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mariusz wiacek" height="50" width="50" /></a><br>
+
+<a href="https://gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/amitmerchant1990/correo/master/res/correo.png" alt="mariusz wiacek" height="50" width="50" /></a>
 
