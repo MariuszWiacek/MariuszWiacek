@@ -1,6 +1,4 @@
-<h1 align="center">Hello<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="60px"> I'm Soumyajit Behera</h1>
 
-<!--
 <h1>🙋‍♂️ Hi, I'm Mariusz </h1>
 <li>🌱 I'm learning front-end development and looking to improve my skills to become a Front End Developer</li>
 
