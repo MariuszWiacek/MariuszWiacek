@@ -1,12 +1,13 @@
 
-<h1>🙋‍♂️ Hi, I'm Mariusz </h1>
-<li>🌱 I'm learning front-end development and looking to improve my skills to become a Front End Developer</li>
+<h1>🙋‍♂️ Hi, I'm Mariusz Wiacek </h1>
+
 
 
  <br/>
 
 ## 👨🏻‍💻 About Me:
 
+<li>🌱 I'm learning front-end development and looking to improve my skills to become a Front End Developer</li>
 
 
 ## 🛠️ Technologies and Tools I use:
@@ -33,6 +34,4 @@
 </p>
 
 ## ❤️ Let's get connected:
-
-<p><a href="" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"  height="30px"/></a> <a href="" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="30px"/></a> <a href="" target="_blank"><img alt="Blog" src="https://img.shields.io/badge/Blog-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"  height="30px"/></a> <a href="" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"  height="30px"/></a>
-</p>
+<a href="https://linkedin.com/in/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maciek klimowicz" height="30" width="40" /></a>
