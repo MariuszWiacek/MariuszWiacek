@@ -37,8 +37,8 @@
 
 ## ❤️ Let's get connected:
 <br>📫 Reach me at wiacek.mariusz@gmail.com<center></br><center>or here : <br>
-<br><a href="https://linkedin.com/in/" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mariusz wiacek" height="100" width="100" /></a>
-<div align="center">
+<br><a href="https://linkedin.com/in/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mariusz wiacek" height="100" width="100" /></a>
 
-<a href="mailto:wiacek.mariusz@gmail.com" target="blank"><img align="left" src="https://raw.githubusercontent.com/amitmerchant1990/correo/master/res/correo.png" alt="mariusz wiacek" height="100" width="100" /></a></div>
+
+<a href="mailto:wiacek.mariusz@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/amitmerchant1990/correo/master/res/correo.png" alt="mariusz wiacek" height="100" width="100" /></a></div>
 
