@@ -1,5 +1,5 @@
 
-<h1>🙋‍♂️ Hi, I'm Mariusz Wiacek </h1>
+<div align="center"><h1>🙋‍♂️ Hi, I'm Mariusz Wiacek </h1></div>
 
 
 
@@ -36,9 +36,9 @@
  <p><center>Welcome to TutorialsPoint</center></p>
 
 ## ❤️ Let's get connected:
-<div align="center">
 <br>📫 Reach me at wiacek.mariusz@gmail.com<center></br><center>or here : <br>
 <br><a href="https://linkedin.com/in/" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mariusz wiacek" height="100" width="100" /></a>
+<div align="center">
 
 <a href="mailto:wiacek.mariusz@gmail.com" target="blank"><img align="left" src="https://raw.githubusercontent.com/amitmerchant1990/correo/master/res/correo.png" alt="mariusz wiacek" height="100" width="100" /></a></div>
 
