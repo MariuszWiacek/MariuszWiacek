@@ -33,7 +33,6 @@
 
 </p>
 
- <p><center>Welcome to TutorialsPoint</center></p>
 
 ## ❤️ Let's get connected:
 <br>📫 Reach me at wiacek.mariusz@gmail.com<center></br><center>or here : <br>
